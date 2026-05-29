@@ -1,7 +1,3 @@
-Here is the enterprise-grade Security Incident Investigation Report based on your findings. I have stripped away the "capture the flag" terminology and restructured your raw notes into a formal, highly technical artifact suitable for a Blue Team portfolio.
-
----
-
 # Security Incident Investigation Report: Malicious PowerShell Execution & WMI Backdoor Creation
 
 **Investigator:** Muhammad Awais Asgher, SOC Analyst
