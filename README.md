@@ -33,7 +33,7 @@ Unlike traditional "CTF write-ups" that merely provide flags and answers, the do
 
 | 🔬 Lab / Room Name | 📑 Category | 🚦 Difficulty | 🔗 Documentation |
 | :--- | :--- | :---: | :--- |
-| **[Splunk: Boss of the SOC](https://tryhackme.com/room/boss-of-the-soc)** | SIEM / Log Analysis | 🟠 Medium | [Read Report](./writeups/Splunk_BOTS_v1.md) |
+| **[Splunk: Boss of the SOC](https://tryhackme.com/room/investigatingwithsplunk)** | SIEM / Log Analysis | 🟠 Medium | [Read Report](https://github.com/awais1-cybersec/THM/blob/main/SOC%20Level%201/Splunk.md) |
 | **[Investigating Windows](https://tryhackme.com/room/investigatingwindows)** | Endpoint Forensics | 🟢 Easy | [Read Report](./writeups/Investigating_Windows.md) |
 | **[KAPE & Registry Analysis](https://tryhackme.com/room/kape)** | DFIR / Artifacts | 🔴 Hard | [Read Report](https://github.com/awais1-cybersec/THM/blob/main/SOC%20Level%201/KAPE.md) |
 | **[Phishing Emails 101](https://tryhackme.com/room/phishingemails)** | Email / Malware Analysis | 🟢 Easy | [Read Report](./writeups/Phishing_Analysis.md) |
