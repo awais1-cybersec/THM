@@ -36,9 +36,9 @@ Unlike traditional "CTF write-ups" that merely provide flags and answers, the do
 | **[Splunk: Boss of the SOC](https://tryhackme.com/room/investigatingwithsplunk)** | SIEM / Log Analysis | 🟠 Medium | [Read Report](https://github.com/awais1-cybersec/THM/blob/main/SOC%20Level%201/Splunk.md) |
 | **[Investigating Windows](https://tryhackme.com/room/investigatingwindows)** | Endpoint Forensics | 🟢 Easy | [Read Report](https://github.com/awais1-cybersec/THM/blob/main/SOC%20Level%201/Investigating_Windows.md) |
 | **[KAPE & Registry Analysis](https://tryhackme.com/room/kape)** | DFIR / Artifacts | 🔴 Hard | [Read Report](https://github.com/awais1-cybersec/THM/blob/main/SOC%20Level%201/KAPE.md) |
-| **[Phishing Emails 101](https://tryhackme.com/room/phishingemails)** | Email / Malware Analysis | 🟢 Easy | [Read Report](./writeups/Phishing_Analysis.md) |
-| **[Zeek & Suricata](https://tryhackme.com/room/zeek)** | Network Traffic Analysis (NTA) | 🟠 Medium | [Read Report](./writeups/Zeek_Suricata_NTA.md) |
-| **[Brim & Wireshark](https://tryhackme.com/room/brim)** | PCAP Investigation | 🟠 Medium | [Read Report](./writeups/Brim_Wireshark.md) |
+| **[Phishing Emails 101](https://tryhackme.com/room/phishingemails5fgjlzxc)** | Email / Malware Analysis | 🟢 Easy | [Read Report](https://github.com/awais1-cybersec/THM/blob/main/SOC%20Level%201/PhishingEmail.md) |
+| **[Zeek & Suricata](https://tryhackme.com/room/zeekbroexercises)** | Network Traffic Analysis (NTA) | 🟠 Medium | [Read Report](https://github.com/awais1-cybersec/THM/blob/main/SOC%20Level%201/Zeek.md) |
+| **[Brim & Wireshark](https://tryhackme.com/room/brim)** | PCAP Investigation | 🟠 Medium | [Read Report](https://github.com/awais1-cybersec/THM/blob/main/SOC%20Level%201/brim.md) |
 
 *(Note: This index is continuously updated as new operational labs are completed.)*
 
